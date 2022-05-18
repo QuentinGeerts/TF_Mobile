@@ -1,0 +1,16 @@
+C:\_workspaces\C#\TF_Mobile\Mobile\SurchargeOperateurs\bin\Debug\net5.0\SurchargeOperateurs.exe
+C:\_workspaces\C#\TF_Mobile\Mobile\SurchargeOperateurs\bin\Debug\net5.0\SurchargeOperateurs.deps.json
+C:\_workspaces\C#\TF_Mobile\Mobile\SurchargeOperateurs\bin\Debug\net5.0\SurchargeOperateurs.runtimeconfig.json
+C:\_workspaces\C#\TF_Mobile\Mobile\SurchargeOperateurs\bin\Debug\net5.0\SurchargeOperateurs.runtimeconfig.dev.json
+C:\_workspaces\C#\TF_Mobile\Mobile\SurchargeOperateurs\bin\Debug\net5.0\SurchargeOperateurs.dll
+C:\_workspaces\C#\TF_Mobile\Mobile\SurchargeOperateurs\bin\Debug\net5.0\ref\SurchargeOperateurs.dll
+C:\_workspaces\C#\TF_Mobile\Mobile\SurchargeOperateurs\bin\Debug\net5.0\SurchargeOperateurs.pdb
+C:\_workspaces\C#\TF_Mobile\Mobile\SurchargeOperateurs\obj\Debug\net5.0\SurchargeOperateurs.csproj.AssemblyReference.cache
+C:\_workspaces\C#\TF_Mobile\Mobile\SurchargeOperateurs\obj\Debug\net5.0\SurchargeOperateurs.GeneratedMSBuildEditorConfig.editorconfig
+C:\_workspaces\C#\TF_Mobile\Mobile\SurchargeOperateurs\obj\Debug\net5.0\SurchargeOperateurs.AssemblyInfoInputs.cache
+C:\_workspaces\C#\TF_Mobile\Mobile\SurchargeOperateurs\obj\Debug\net5.0\SurchargeOperateurs.AssemblyInfo.cs
+C:\_workspaces\C#\TF_Mobile\Mobile\SurchargeOperateurs\obj\Debug\net5.0\SurchargeOperateurs.csproj.CoreCompileInputs.cache
+C:\_workspaces\C#\TF_Mobile\Mobile\SurchargeOperateurs\obj\Debug\net5.0\SurchargeOperateurs.dll
+C:\_workspaces\C#\TF_Mobile\Mobile\SurchargeOperateurs\obj\Debug\net5.0\ref\SurchargeOperateurs.dll
+C:\_workspaces\C#\TF_Mobile\Mobile\SurchargeOperateurs\obj\Debug\net5.0\SurchargeOperateurs.pdb
+C:\_workspaces\C#\TF_Mobile\Mobile\SurchargeOperateurs\obj\Debug\net5.0\SurchargeOperateurs.genruntimeconfig.cache

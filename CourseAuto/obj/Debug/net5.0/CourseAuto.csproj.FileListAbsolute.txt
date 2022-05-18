@@ -1,0 +1,17 @@
+C:\_workspaces\C#\TF_Mobile\Mobile\CourseAuto\bin\Debug\net5.0\CourseAuto.exe
+C:\_workspaces\C#\TF_Mobile\Mobile\CourseAuto\bin\Debug\net5.0\CourseAuto.deps.json
+C:\_workspaces\C#\TF_Mobile\Mobile\CourseAuto\bin\Debug\net5.0\CourseAuto.runtimeconfig.json
+C:\_workspaces\C#\TF_Mobile\Mobile\CourseAuto\bin\Debug\net5.0\CourseAuto.runtimeconfig.dev.json
+C:\_workspaces\C#\TF_Mobile\Mobile\CourseAuto\bin\Debug\net5.0\CourseAuto.dll
+C:\_workspaces\C#\TF_Mobile\Mobile\CourseAuto\bin\Debug\net5.0\ref\CourseAuto.dll
+C:\_workspaces\C#\TF_Mobile\Mobile\CourseAuto\bin\Debug\net5.0\CourseAuto.pdb
+C:\_workspaces\C#\TF_Mobile\Mobile\CourseAuto\obj\Debug\net5.0\CourseAuto.csproj.AssemblyReference.cache
+C:\_workspaces\C#\TF_Mobile\Mobile\CourseAuto\obj\Debug\net5.0\CourseAuto.GeneratedMSBuildEditorConfig.editorconfig
+C:\_workspaces\C#\TF_Mobile\Mobile\CourseAuto\obj\Debug\net5.0\CourseAuto.AssemblyInfoInputs.cache
+C:\_workspaces\C#\TF_Mobile\Mobile\CourseAuto\obj\Debug\net5.0\CourseAuto.AssemblyInfo.cs
+C:\_workspaces\C#\TF_Mobile\Mobile\CourseAuto\obj\Debug\net5.0\CourseAuto.csproj.CoreCompileInputs.cache
+C:\_workspaces\C#\TF_Mobile\Mobile\CourseAuto\obj\Debug\net5.0\CourseAuto.dll
+C:\_workspaces\C#\TF_Mobile\Mobile\CourseAuto\obj\Debug\net5.0\ref\CourseAuto.dll
+C:\_workspaces\C#\TF_Mobile\Mobile\CourseAuto\obj\Debug\net5.0\CourseAuto.pdb
+C:\_workspaces\C#\TF_Mobile\Mobile\CourseAuto\obj\Debug\net5.0\CourseAuto.genruntimeconfig.cache
+C:\_workspaces\C#\TF_Mobile\Mobile\CourseAuto\bin\Debug\net5.0\CourseAuto.xml

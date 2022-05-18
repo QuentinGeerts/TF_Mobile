@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ConstructeurDestructeur/1.0.0": {
+        "runtime": {
+          "ConstructeurDestructeur.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConstructeurDestructeur/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

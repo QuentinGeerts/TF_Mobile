@@ -1,0 +1,16 @@
+C:\_workspaces\C#\TF_Mobile\Mobile\Polymorphisme\bin\Debug\net5.0\Polymorphisme.exe
+C:\_workspaces\C#\TF_Mobile\Mobile\Polymorphisme\bin\Debug\net5.0\Polymorphisme.deps.json
+C:\_workspaces\C#\TF_Mobile\Mobile\Polymorphisme\bin\Debug\net5.0\Polymorphisme.runtimeconfig.json
+C:\_workspaces\C#\TF_Mobile\Mobile\Polymorphisme\bin\Debug\net5.0\Polymorphisme.runtimeconfig.dev.json
+C:\_workspaces\C#\TF_Mobile\Mobile\Polymorphisme\bin\Debug\net5.0\Polymorphisme.dll
+C:\_workspaces\C#\TF_Mobile\Mobile\Polymorphisme\bin\Debug\net5.0\ref\Polymorphisme.dll
+C:\_workspaces\C#\TF_Mobile\Mobile\Polymorphisme\bin\Debug\net5.0\Polymorphisme.pdb
+C:\_workspaces\C#\TF_Mobile\Mobile\Polymorphisme\obj\Debug\net5.0\Polymorphisme.GeneratedMSBuildEditorConfig.editorconfig
+C:\_workspaces\C#\TF_Mobile\Mobile\Polymorphisme\obj\Debug\net5.0\Polymorphisme.AssemblyInfoInputs.cache
+C:\_workspaces\C#\TF_Mobile\Mobile\Polymorphisme\obj\Debug\net5.0\Polymorphisme.AssemblyInfo.cs
+C:\_workspaces\C#\TF_Mobile\Mobile\Polymorphisme\obj\Debug\net5.0\Polymorphisme.csproj.CoreCompileInputs.cache
+C:\_workspaces\C#\TF_Mobile\Mobile\Polymorphisme\obj\Debug\net5.0\Polymorphisme.dll
+C:\_workspaces\C#\TF_Mobile\Mobile\Polymorphisme\obj\Debug\net5.0\ref\Polymorphisme.dll
+C:\_workspaces\C#\TF_Mobile\Mobile\Polymorphisme\obj\Debug\net5.0\Polymorphisme.pdb
+C:\_workspaces\C#\TF_Mobile\Mobile\Polymorphisme\obj\Debug\net5.0\Polymorphisme.genruntimeconfig.cache
+C:\_workspaces\C#\TF_Mobile\Mobile\Polymorphisme\obj\Debug\net5.0\Polymorphisme.csproj.AssemblyReference.cache

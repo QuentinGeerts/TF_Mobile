@@ -1,0 +1,16 @@
+C:\_workspaces\C#\TF_Mobile\Mobile\Exceptions\bin\Debug\net5.0\Exceptions.exe
+C:\_workspaces\C#\TF_Mobile\Mobile\Exceptions\bin\Debug\net5.0\Exceptions.deps.json
+C:\_workspaces\C#\TF_Mobile\Mobile\Exceptions\bin\Debug\net5.0\Exceptions.runtimeconfig.json
+C:\_workspaces\C#\TF_Mobile\Mobile\Exceptions\bin\Debug\net5.0\Exceptions.runtimeconfig.dev.json
+C:\_workspaces\C#\TF_Mobile\Mobile\Exceptions\bin\Debug\net5.0\Exceptions.dll
+C:\_workspaces\C#\TF_Mobile\Mobile\Exceptions\bin\Debug\net5.0\ref\Exceptions.dll
+C:\_workspaces\C#\TF_Mobile\Mobile\Exceptions\bin\Debug\net5.0\Exceptions.pdb
+C:\_workspaces\C#\TF_Mobile\Mobile\Exceptions\obj\Debug\net5.0\Exceptions.csproj.AssemblyReference.cache
+C:\_workspaces\C#\TF_Mobile\Mobile\Exceptions\obj\Debug\net5.0\Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\_workspaces\C#\TF_Mobile\Mobile\Exceptions\obj\Debug\net5.0\Exceptions.AssemblyInfoInputs.cache
+C:\_workspaces\C#\TF_Mobile\Mobile\Exceptions\obj\Debug\net5.0\Exceptions.AssemblyInfo.cs
+C:\_workspaces\C#\TF_Mobile\Mobile\Exceptions\obj\Debug\net5.0\Exceptions.csproj.CoreCompileInputs.cache
+C:\_workspaces\C#\TF_Mobile\Mobile\Exceptions\obj\Debug\net5.0\Exceptions.dll
+C:\_workspaces\C#\TF_Mobile\Mobile\Exceptions\obj\Debug\net5.0\ref\Exceptions.dll
+C:\_workspaces\C#\TF_Mobile\Mobile\Exceptions\obj\Debug\net5.0\Exceptions.pdb
+C:\_workspaces\C#\TF_Mobile\Mobile\Exceptions\obj\Debug\net5.0\Exceptions.genruntimeconfig.cache

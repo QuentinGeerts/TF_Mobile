@@ -1,0 +1,16 @@
+C:\_workspaces\C#\TF_Mobile\Mobile\Carwarsh\bin\Debug\net5.0\Carwarsh.exe
+C:\_workspaces\C#\TF_Mobile\Mobile\Carwarsh\bin\Debug\net5.0\Carwarsh.deps.json
+C:\_workspaces\C#\TF_Mobile\Mobile\Carwarsh\bin\Debug\net5.0\Carwarsh.runtimeconfig.json
+C:\_workspaces\C#\TF_Mobile\Mobile\Carwarsh\bin\Debug\net5.0\Carwarsh.runtimeconfig.dev.json
+C:\_workspaces\C#\TF_Mobile\Mobile\Carwarsh\bin\Debug\net5.0\Carwarsh.dll
+C:\_workspaces\C#\TF_Mobile\Mobile\Carwarsh\bin\Debug\net5.0\ref\Carwarsh.dll
+C:\_workspaces\C#\TF_Mobile\Mobile\Carwarsh\bin\Debug\net5.0\Carwarsh.pdb
+C:\_workspaces\C#\TF_Mobile\Mobile\Carwarsh\obj\Debug\net5.0\Carwarsh.csproj.AssemblyReference.cache
+C:\_workspaces\C#\TF_Mobile\Mobile\Carwarsh\obj\Debug\net5.0\Carwarsh.GeneratedMSBuildEditorConfig.editorconfig
+C:\_workspaces\C#\TF_Mobile\Mobile\Carwarsh\obj\Debug\net5.0\Carwarsh.AssemblyInfoInputs.cache
+C:\_workspaces\C#\TF_Mobile\Mobile\Carwarsh\obj\Debug\net5.0\Carwarsh.AssemblyInfo.cs
+C:\_workspaces\C#\TF_Mobile\Mobile\Carwarsh\obj\Debug\net5.0\Carwarsh.csproj.CoreCompileInputs.cache
+C:\_workspaces\C#\TF_Mobile\Mobile\Carwarsh\obj\Debug\net5.0\Carwarsh.dll
+C:\_workspaces\C#\TF_Mobile\Mobile\Carwarsh\obj\Debug\net5.0\ref\Carwarsh.dll
+C:\_workspaces\C#\TF_Mobile\Mobile\Carwarsh\obj\Debug\net5.0\Carwarsh.pdb
+C:\_workspaces\C#\TF_Mobile\Mobile\Carwarsh\obj\Debug\net5.0\Carwarsh.genruntimeconfig.cache

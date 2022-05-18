@@ -1,0 +1,16 @@
+C:\_workspaces\C#\TF_Mobile\Mobile\GestionBanque07\obj\Debug\net5.0\GestionBanque07.csproj.AssemblyReference.cache
+C:\_workspaces\C#\TF_Mobile\Mobile\GestionBanque07\obj\Debug\net5.0\GestionBanque07.GeneratedMSBuildEditorConfig.editorconfig
+C:\_workspaces\C#\TF_Mobile\Mobile\GestionBanque07\obj\Debug\net5.0\GestionBanque07.AssemblyInfoInputs.cache
+C:\_workspaces\C#\TF_Mobile\Mobile\GestionBanque07\obj\Debug\net5.0\GestionBanque07.AssemblyInfo.cs
+C:\_workspaces\C#\TF_Mobile\Mobile\GestionBanque07\obj\Debug\net5.0\GestionBanque07.csproj.CoreCompileInputs.cache
+C:\_workspaces\C#\TF_Mobile\Mobile\GestionBanque07\bin\Debug\net5.0\GestionBanque07.exe
+C:\_workspaces\C#\TF_Mobile\Mobile\GestionBanque07\bin\Debug\net5.0\GestionBanque07.deps.json
+C:\_workspaces\C#\TF_Mobile\Mobile\GestionBanque07\bin\Debug\net5.0\GestionBanque07.runtimeconfig.json
+C:\_workspaces\C#\TF_Mobile\Mobile\GestionBanque07\bin\Debug\net5.0\GestionBanque07.runtimeconfig.dev.json
+C:\_workspaces\C#\TF_Mobile\Mobile\GestionBanque07\bin\Debug\net5.0\GestionBanque07.dll
+C:\_workspaces\C#\TF_Mobile\Mobile\GestionBanque07\bin\Debug\net5.0\ref\GestionBanque07.dll
+C:\_workspaces\C#\TF_Mobile\Mobile\GestionBanque07\bin\Debug\net5.0\GestionBanque07.pdb
+C:\_workspaces\C#\TF_Mobile\Mobile\GestionBanque07\obj\Debug\net5.0\GestionBanque07.dll
+C:\_workspaces\C#\TF_Mobile\Mobile\GestionBanque07\obj\Debug\net5.0\ref\GestionBanque07.dll
+C:\_workspaces\C#\TF_Mobile\Mobile\GestionBanque07\obj\Debug\net5.0\GestionBanque07.pdb
+C:\_workspaces\C#\TF_Mobile\Mobile\GestionBanque07\obj\Debug\net5.0\GestionBanque07.genruntimeconfig.cache

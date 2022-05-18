@@ -1,0 +1,15 @@
+C:\_workspaces\C#\TF_Mobile\Mobile\Test\bin\Debug\net5.0\Test.exe
+C:\_workspaces\C#\TF_Mobile\Mobile\Test\bin\Debug\net5.0\Test.deps.json
+C:\_workspaces\C#\TF_Mobile\Mobile\Test\bin\Debug\net5.0\Test.runtimeconfig.json
+C:\_workspaces\C#\TF_Mobile\Mobile\Test\bin\Debug\net5.0\Test.runtimeconfig.dev.json
+C:\_workspaces\C#\TF_Mobile\Mobile\Test\bin\Debug\net5.0\Test.dll
+C:\_workspaces\C#\TF_Mobile\Mobile\Test\bin\Debug\net5.0\ref\Test.dll
+C:\_workspaces\C#\TF_Mobile\Mobile\Test\bin\Debug\net5.0\Test.pdb
+C:\_workspaces\C#\TF_Mobile\Mobile\Test\obj\Debug\net5.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\_workspaces\C#\TF_Mobile\Mobile\Test\obj\Debug\net5.0\Test.AssemblyInfoInputs.cache
+C:\_workspaces\C#\TF_Mobile\Mobile\Test\obj\Debug\net5.0\Test.AssemblyInfo.cs
+C:\_workspaces\C#\TF_Mobile\Mobile\Test\obj\Debug\net5.0\Test.csproj.CoreCompileInputs.cache
+C:\_workspaces\C#\TF_Mobile\Mobile\Test\obj\Debug\net5.0\Test.dll
+C:\_workspaces\C#\TF_Mobile\Mobile\Test\obj\Debug\net5.0\ref\Test.dll
+C:\_workspaces\C#\TF_Mobile\Mobile\Test\obj\Debug\net5.0\Test.pdb
+C:\_workspaces\C#\TF_Mobile\Mobile\Test\obj\Debug\net5.0\Test.genruntimeconfig.cache

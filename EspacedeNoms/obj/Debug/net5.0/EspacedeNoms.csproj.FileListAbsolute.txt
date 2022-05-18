@@ -1,0 +1,16 @@
+C:\_workspaces\C#\TF_Mobile\Mobile\EspacedeNoms\bin\Debug\net5.0\EspacedeNoms.exe
+C:\_workspaces\C#\TF_Mobile\Mobile\EspacedeNoms\bin\Debug\net5.0\EspacedeNoms.deps.json
+C:\_workspaces\C#\TF_Mobile\Mobile\EspacedeNoms\bin\Debug\net5.0\EspacedeNoms.runtimeconfig.json
+C:\_workspaces\C#\TF_Mobile\Mobile\EspacedeNoms\bin\Debug\net5.0\EspacedeNoms.runtimeconfig.dev.json
+C:\_workspaces\C#\TF_Mobile\Mobile\EspacedeNoms\bin\Debug\net5.0\EspacedeNoms.dll
+C:\_workspaces\C#\TF_Mobile\Mobile\EspacedeNoms\bin\Debug\net5.0\ref\EspacedeNoms.dll
+C:\_workspaces\C#\TF_Mobile\Mobile\EspacedeNoms\bin\Debug\net5.0\EspacedeNoms.pdb
+C:\_workspaces\C#\TF_Mobile\Mobile\EspacedeNoms\obj\Debug\net5.0\EspacedeNoms.csproj.AssemblyReference.cache
+C:\_workspaces\C#\TF_Mobile\Mobile\EspacedeNoms\obj\Debug\net5.0\EspacedeNoms.GeneratedMSBuildEditorConfig.editorconfig
+C:\_workspaces\C#\TF_Mobile\Mobile\EspacedeNoms\obj\Debug\net5.0\EspacedeNoms.AssemblyInfoInputs.cache
+C:\_workspaces\C#\TF_Mobile\Mobile\EspacedeNoms\obj\Debug\net5.0\EspacedeNoms.AssemblyInfo.cs
+C:\_workspaces\C#\TF_Mobile\Mobile\EspacedeNoms\obj\Debug\net5.0\EspacedeNoms.csproj.CoreCompileInputs.cache
+C:\_workspaces\C#\TF_Mobile\Mobile\EspacedeNoms\obj\Debug\net5.0\EspacedeNoms.dll
+C:\_workspaces\C#\TF_Mobile\Mobile\EspacedeNoms\obj\Debug\net5.0\ref\EspacedeNoms.dll
+C:\_workspaces\C#\TF_Mobile\Mobile\EspacedeNoms\obj\Debug\net5.0\EspacedeNoms.pdb
+C:\_workspaces\C#\TF_Mobile\Mobile\EspacedeNoms\obj\Debug\net5.0\EspacedeNoms.genruntimeconfig.cache

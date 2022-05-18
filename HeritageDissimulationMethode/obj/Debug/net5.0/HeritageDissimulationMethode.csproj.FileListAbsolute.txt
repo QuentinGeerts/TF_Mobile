@@ -1,0 +1,16 @@
+C:\_workspaces\C#\TF_Mobile\Mobile\HeritageDissimulationMethode\bin\Debug\net5.0\HeritageDissimulationMethode.exe
+C:\_workspaces\C#\TF_Mobile\Mobile\HeritageDissimulationMethode\bin\Debug\net5.0\HeritageDissimulationMethode.deps.json
+C:\_workspaces\C#\TF_Mobile\Mobile\HeritageDissimulationMethode\bin\Debug\net5.0\HeritageDissimulationMethode.runtimeconfig.json
+C:\_workspaces\C#\TF_Mobile\Mobile\HeritageDissimulationMethode\bin\Debug\net5.0\HeritageDissimulationMethode.runtimeconfig.dev.json
+C:\_workspaces\C#\TF_Mobile\Mobile\HeritageDissimulationMethode\bin\Debug\net5.0\HeritageDissimulationMethode.dll
+C:\_workspaces\C#\TF_Mobile\Mobile\HeritageDissimulationMethode\bin\Debug\net5.0\ref\HeritageDissimulationMethode.dll
+C:\_workspaces\C#\TF_Mobile\Mobile\HeritageDissimulationMethode\bin\Debug\net5.0\HeritageDissimulationMethode.pdb
+C:\_workspaces\C#\TF_Mobile\Mobile\HeritageDissimulationMethode\obj\Debug\net5.0\HeritageDissimulationMethode.csproj.AssemblyReference.cache
+C:\_workspaces\C#\TF_Mobile\Mobile\HeritageDissimulationMethode\obj\Debug\net5.0\HeritageDissimulationMethode.GeneratedMSBuildEditorConfig.editorconfig
+C:\_workspaces\C#\TF_Mobile\Mobile\HeritageDissimulationMethode\obj\Debug\net5.0\HeritageDissimulationMethode.AssemblyInfoInputs.cache
+C:\_workspaces\C#\TF_Mobile\Mobile\HeritageDissimulationMethode\obj\Debug\net5.0\HeritageDissimulationMethode.AssemblyInfo.cs
+C:\_workspaces\C#\TF_Mobile\Mobile\HeritageDissimulationMethode\obj\Debug\net5.0\HeritageDissimulationMethode.csproj.CoreCompileInputs.cache
+C:\_workspaces\C#\TF_Mobile\Mobile\HeritageDissimulationMethode\obj\Debug\net5.0\HeritageDissimulationMethode.dll
+C:\_workspaces\C#\TF_Mobile\Mobile\HeritageDissimulationMethode\obj\Debug\net5.0\ref\HeritageDissimulationMethode.dll
+C:\_workspaces\C#\TF_Mobile\Mobile\HeritageDissimulationMethode\obj\Debug\net5.0\HeritageDissimulationMethode.pdb
+C:\_workspaces\C#\TF_Mobile\Mobile\HeritageDissimulationMethode\obj\Debug\net5.0\HeritageDissimulationMethode.genruntimeconfig.cache

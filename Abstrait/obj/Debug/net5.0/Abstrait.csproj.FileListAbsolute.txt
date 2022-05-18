@@ -1,0 +1,16 @@
+C:\_workspaces\C#\TF_Mobile\Mobile\Abstrait\bin\Debug\net5.0\Abstrait.exe
+C:\_workspaces\C#\TF_Mobile\Mobile\Abstrait\bin\Debug\net5.0\Abstrait.deps.json
+C:\_workspaces\C#\TF_Mobile\Mobile\Abstrait\bin\Debug\net5.0\Abstrait.runtimeconfig.json
+C:\_workspaces\C#\TF_Mobile\Mobile\Abstrait\bin\Debug\net5.0\Abstrait.runtimeconfig.dev.json
+C:\_workspaces\C#\TF_Mobile\Mobile\Abstrait\bin\Debug\net5.0\Abstrait.dll
+C:\_workspaces\C#\TF_Mobile\Mobile\Abstrait\bin\Debug\net5.0\ref\Abstrait.dll
+C:\_workspaces\C#\TF_Mobile\Mobile\Abstrait\bin\Debug\net5.0\Abstrait.pdb
+C:\_workspaces\C#\TF_Mobile\Mobile\Abstrait\obj\Debug\net5.0\Abstrait.csproj.AssemblyReference.cache
+C:\_workspaces\C#\TF_Mobile\Mobile\Abstrait\obj\Debug\net5.0\Abstrait.GeneratedMSBuildEditorConfig.editorconfig
+C:\_workspaces\C#\TF_Mobile\Mobile\Abstrait\obj\Debug\net5.0\Abstrait.AssemblyInfoInputs.cache
+C:\_workspaces\C#\TF_Mobile\Mobile\Abstrait\obj\Debug\net5.0\Abstrait.AssemblyInfo.cs
+C:\_workspaces\C#\TF_Mobile\Mobile\Abstrait\obj\Debug\net5.0\Abstrait.csproj.CoreCompileInputs.cache
+C:\_workspaces\C#\TF_Mobile\Mobile\Abstrait\obj\Debug\net5.0\Abstrait.dll
+C:\_workspaces\C#\TF_Mobile\Mobile\Abstrait\obj\Debug\net5.0\ref\Abstrait.dll
+C:\_workspaces\C#\TF_Mobile\Mobile\Abstrait\obj\Debug\net5.0\Abstrait.pdb
+C:\_workspaces\C#\TF_Mobile\Mobile\Abstrait\obj\Debug\net5.0\Abstrait.genruntimeconfig.cache

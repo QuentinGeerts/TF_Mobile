@@ -1,0 +1,14 @@
+C:\_workspaces\C#\TF_Mobile\Mobile\ExoPage148A\bin\Debug\netcoreapp3.1\ExoPage148A.exe
+C:\_workspaces\C#\TF_Mobile\Mobile\ExoPage148A\bin\Debug\netcoreapp3.1\ExoPage148A.deps.json
+C:\_workspaces\C#\TF_Mobile\Mobile\ExoPage148A\bin\Debug\netcoreapp3.1\ExoPage148A.runtimeconfig.json
+C:\_workspaces\C#\TF_Mobile\Mobile\ExoPage148A\bin\Debug\netcoreapp3.1\ExoPage148A.runtimeconfig.dev.json
+C:\_workspaces\C#\TF_Mobile\Mobile\ExoPage148A\bin\Debug\netcoreapp3.1\ExoPage148A.dll
+C:\_workspaces\C#\TF_Mobile\Mobile\ExoPage148A\bin\Debug\netcoreapp3.1\ExoPage148A.pdb
+C:\_workspaces\C#\TF_Mobile\Mobile\ExoPage148A\obj\Debug\netcoreapp3.1\ExoPage148A.csproj.AssemblyReference.cache
+C:\_workspaces\C#\TF_Mobile\Mobile\ExoPage148A\obj\Debug\netcoreapp3.1\ExoPage148A.GeneratedMSBuildEditorConfig.editorconfig
+C:\_workspaces\C#\TF_Mobile\Mobile\ExoPage148A\obj\Debug\netcoreapp3.1\ExoPage148A.AssemblyInfoInputs.cache
+C:\_workspaces\C#\TF_Mobile\Mobile\ExoPage148A\obj\Debug\netcoreapp3.1\ExoPage148A.AssemblyInfo.cs
+C:\_workspaces\C#\TF_Mobile\Mobile\ExoPage148A\obj\Debug\netcoreapp3.1\ExoPage148A.csproj.CoreCompileInputs.cache
+C:\_workspaces\C#\TF_Mobile\Mobile\ExoPage148A\obj\Debug\netcoreapp3.1\ExoPage148A.dll
+C:\_workspaces\C#\TF_Mobile\Mobile\ExoPage148A\obj\Debug\netcoreapp3.1\ExoPage148A.pdb
+C:\_workspaces\C#\TF_Mobile\Mobile\ExoPage148A\obj\Debug\netcoreapp3.1\ExoPage148A.genruntimeconfig.cache

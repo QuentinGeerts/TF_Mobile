@@ -1,0 +1,15 @@
+C:\Users\Bstorm\Downloads\GestionBanque09\bin\Debug\net5.0\GestionBanque10.exe
+C:\Users\Bstorm\Downloads\GestionBanque09\bin\Debug\net5.0\GestionBanque10.deps.json
+C:\Users\Bstorm\Downloads\GestionBanque09\bin\Debug\net5.0\GestionBanque10.runtimeconfig.json
+C:\Users\Bstorm\Downloads\GestionBanque09\bin\Debug\net5.0\GestionBanque10.runtimeconfig.dev.json
+C:\Users\Bstorm\Downloads\GestionBanque09\bin\Debug\net5.0\GestionBanque10.dll
+C:\Users\Bstorm\Downloads\GestionBanque09\bin\Debug\net5.0\ref\GestionBanque10.dll
+C:\Users\Bstorm\Downloads\GestionBanque09\bin\Debug\net5.0\GestionBanque10.pdb
+C:\Users\Bstorm\Downloads\GestionBanque09\obj\Debug\net5.0\GestionBanque10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bstorm\Downloads\GestionBanque09\obj\Debug\net5.0\GestionBanque10.AssemblyInfoInputs.cache
+C:\Users\Bstorm\Downloads\GestionBanque09\obj\Debug\net5.0\GestionBanque10.AssemblyInfo.cs
+C:\Users\Bstorm\Downloads\GestionBanque09\obj\Debug\net5.0\GestionBanque10.csproj.CoreCompileInputs.cache
+C:\Users\Bstorm\Downloads\GestionBanque09\obj\Debug\net5.0\GestionBanque10.dll
+C:\Users\Bstorm\Downloads\GestionBanque09\obj\Debug\net5.0\ref\GestionBanque10.dll
+C:\Users\Bstorm\Downloads\GestionBanque09\obj\Debug\net5.0\GestionBanque10.pdb
+C:\Users\Bstorm\Downloads\GestionBanque09\obj\Debug\net5.0\GestionBanque10.genruntimeconfig.cache

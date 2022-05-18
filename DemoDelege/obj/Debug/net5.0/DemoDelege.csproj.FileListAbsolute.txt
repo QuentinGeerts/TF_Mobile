@@ -1,0 +1,16 @@
+C:\_workspaces\C#\TF_Mobile\Mobile\DemoDelege\bin\Debug\net5.0\DemoDelege.exe
+C:\_workspaces\C#\TF_Mobile\Mobile\DemoDelege\bin\Debug\net5.0\DemoDelege.deps.json
+C:\_workspaces\C#\TF_Mobile\Mobile\DemoDelege\bin\Debug\net5.0\DemoDelege.runtimeconfig.json
+C:\_workspaces\C#\TF_Mobile\Mobile\DemoDelege\bin\Debug\net5.0\DemoDelege.runtimeconfig.dev.json
+C:\_workspaces\C#\TF_Mobile\Mobile\DemoDelege\bin\Debug\net5.0\DemoDelege.dll
+C:\_workspaces\C#\TF_Mobile\Mobile\DemoDelege\bin\Debug\net5.0\ref\DemoDelege.dll
+C:\_workspaces\C#\TF_Mobile\Mobile\DemoDelege\bin\Debug\net5.0\DemoDelege.pdb
+C:\_workspaces\C#\TF_Mobile\Mobile\DemoDelege\obj\Debug\net5.0\DemoDelege.csproj.AssemblyReference.cache
+C:\_workspaces\C#\TF_Mobile\Mobile\DemoDelege\obj\Debug\net5.0\DemoDelege.GeneratedMSBuildEditorConfig.editorconfig
+C:\_workspaces\C#\TF_Mobile\Mobile\DemoDelege\obj\Debug\net5.0\DemoDelege.AssemblyInfoInputs.cache
+C:\_workspaces\C#\TF_Mobile\Mobile\DemoDelege\obj\Debug\net5.0\DemoDelege.AssemblyInfo.cs
+C:\_workspaces\C#\TF_Mobile\Mobile\DemoDelege\obj\Debug\net5.0\DemoDelege.csproj.CoreCompileInputs.cache
+C:\_workspaces\C#\TF_Mobile\Mobile\DemoDelege\obj\Debug\net5.0\DemoDelege.dll
+C:\_workspaces\C#\TF_Mobile\Mobile\DemoDelege\obj\Debug\net5.0\ref\DemoDelege.dll
+C:\_workspaces\C#\TF_Mobile\Mobile\DemoDelege\obj\Debug\net5.0\DemoDelege.pdb
+C:\_workspaces\C#\TF_Mobile\Mobile\DemoDelege\obj\Debug\net5.0\DemoDelege.genruntimeconfig.cache
